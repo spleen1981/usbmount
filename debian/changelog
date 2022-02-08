@@ -1,3 +1,9 @@
+usbmount (0.0.25) unstable; urgency=low
+
+  * Merged all outstanding pull requests from @rbrito original GitHub repository.
+
+ -- Andrew Davison <andy@birdslikewires.net>  Tue, 07 Feb 2021 12:56:22 +0000
+
 usbmount (0.0.24) unstable; urgency=medium
 
   * Use systemd to manage [dis]mounting (based on https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774149#177)
