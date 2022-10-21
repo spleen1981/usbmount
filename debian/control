@@ -20,7 +20,7 @@ Depends:
 Recommends:
  pmount
 Suggests:
- ntfs-3g
+ ntfs-3g,
  exfat-fuse
 Description: automatically mount removable storage devices
  This package automatically mounts USB mass storage devices (typically USB
