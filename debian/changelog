@@ -2,6 +2,7 @@ usbmount (0.0.26) unstable; urgency=medium
 
   * Fix some bugs introduced in 0.0.25
   * Fix permissions on executable file
+  * Make create label symlink script more robust, using lsblk
   * debian/control: Suggest exfat-fuse
 
  -- Nicolas Martignoni <nicolas@martignoni.net>  Fri, 21 Oct 2022 21:03:00 +0200
